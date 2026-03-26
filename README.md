@@ -2,7 +2,7 @@
 
 ### **DevOps Engineer | Infrastructure Automation | Fintech Specialist**
 
-I am a **DevOps Engineer with over 2 years of production experience in the high-compliance Fintech sector. I specialize in infrastructure automation, CI/CD pipelines, and containerization to bridge the gap between development and stable operations.🚀 Automation Expert: Reduced manual operational workflows by 60% using Python and Ansible.🛡️ Security Focused: Specialist in HashiCorp Vault integration and SSL/TLS lifecycle management for 150+ servers.⚙️ Infrastructure & Containers: Experienced in managing Kubernetes and Docker in both cloud and highly restricted air-gapped environments.🤖 Innovation: Developed a custom Slack Bot that cut deployment request times from 15 minutes to 30 seconds.I am currently focused on mastering GitOps and Cloud-Native architecture while preparing for my Master’s journey in Europe
+I am a **DevOps Engineer** with over 2 years of production experience in the high-compliance Fintech sector. I specialize in infrastructure automation, CI/CD pipelines, and containerization to bridge the gap between development and stable operations.🚀 Automation Expert: Reduced manual operational workflows by 60% using Python and Ansible.🛡️ Security Focused: Specialist in HashiCorp Vault integration and SSL/TLS lifecycle management for 150+ servers.⚙️ Infrastructure & Containers: Experienced in managing Kubernetes and Docker in both cloud and highly restricted air-gapped environments.🤖 Innovation: Developed a custom Slack Bot that cut deployment request times from 15 minutes to 30 seconds.I am currently focused on mastering GitOps and Cloud-Native architecture while preparing for my Master’s journey in Europe
 
 
 ## 🌐 Socials:

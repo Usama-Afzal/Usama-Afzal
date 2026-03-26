@@ -2,18 +2,8 @@
 
 ### **DevOps Engineer | Infrastructure Automation | Fintech Specialist**
 
-I am a **DevOps Engineer** with over 2 years of production experience in the high-compliance **Fintech sector**[cite: 8, 24]. [cite_start]I specialize in bridging the gap between development and operations by building **resilient CI/CD pipelines**, **automating infrastructure**, and managing **containerized environments**[cite: 8, 10, 14].
+I am a **DevOps Engineer with over 2 years of production experience in the high-compliance Fintech sector. I specialize in infrastructure automation, CI/CD pipelines, and containerization to bridge the gap between development and stable operations.🚀 Automation Expert: Reduced manual operational workflows by 60% using Python and Ansible.🛡️ Security Focused: Specialist in HashiCorp Vault integration and SSL/TLS lifecycle management for 150+ servers.⚙️ Infrastructure & Containers: Experienced in managing Kubernetes and Docker in both cloud and highly restricted air-gapped environments.🤖 Innovation: Developed a custom Slack Bot that cut deployment request times from 15 minutes to 30 seconds.I am currently focused on mastering GitOps and Cloud-Native architecture while preparing for my Master’s journey in Europe
 
----
-
-### 🚀 **Impact & Achievements**
-* [cite_start]**Automation at Scale:** Reduced manual operational workflows by **60%** using **Python** and **Ansible** across **150+ servers**[cite: 9, 32, 34].
-* [cite_start]**Security & Secrets:** Specialist in **HashiCorp Vault** integration, migrating **20+ pipelines** to dynamic secret injection[cite: 10, 36].
-* [cite_start]**Infrastructure & Containers:** Experienced in managing **Kubernetes** and **Docker** in both cloud and highly restricted **air-gapped environments**[cite: 10, 13, 46].
-* [cite_start]**Innovation:** Developed a custom **Slack Bot** that cut deployment request times from **15 minutes to 30 seconds**[cite: 40, 43].
-* [cite_start]**Cloud Excellence:** Hands-on experience with **AWS** and infrastructure-as-code principles[cite: 10, 11, 13].
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usama.khatri77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usama-muhammad-afzal-73a2a223b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afzalusama77@gmail.com) 
